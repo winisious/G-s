@@ -1,7 +1,7 @@
-,,,CSS
+'''CSS
 body{
-    background:#f3f3f3;
-    color:# 333;
+    background: #f3f3f3;
+    color: #333;
     width: 100%;
     font-family: sans-serif;
     margin:0 auto;
@@ -19,7 +19,7 @@ body{
     padding:0 2pc;
 }
 .menu{
-    bacckground-color: #417aa8;
+    background-color: #417aa8;
     height: 50px;
     line-height: 50px;
     position: relative;
