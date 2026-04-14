@@ -1,5 +1,5 @@
 '''CSS
-.body{
+body{
     background:#f3f3f3;
     color:#333;
     width:100%;
@@ -87,5 +87,5 @@
     line-height:40px;
     background:#417aa8;
     color:#fff;
-    margin-bottom:1pc;
+    margin-bottom: 1pc;
 }
